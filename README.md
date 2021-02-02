@@ -1,1 +1,2 @@
-# linux-code
+＃Linux代码
+整理更新常用的Linux命令，加深理解，为了能更好的书写shell来处理我们工作
